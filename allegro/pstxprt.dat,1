@@ -1,0 +1,1160 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-20-2018 at 16:29:22 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='RFSIGNALGENERATOR';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_SMC0603_105':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1314@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1314@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1314@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_SMC0603_1000PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3640@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3640@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3640@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_SMC0603_1000PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3669@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3669@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3669@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_SMC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS4231@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins4231@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins4231@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_SMC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS4257@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins4257@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins4257@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS5909@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins5909@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins5909@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_SMC0603_104':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS5935@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins5935@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins5935@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_SMC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS7604@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins7604@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins7604@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS7891@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins7891@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins7891@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13720@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13720@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13720@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1332@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1332@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1332@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_SMC0603_104':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13736@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13736@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13736@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13942@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13942@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13942@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13878@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13878@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13878@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_SMC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS14462@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins14462@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins14462@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS16924@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins16924@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins16924@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS23254@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins23254@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins23254@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS24563@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins24563@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins24563@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS26599@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins26599@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins26599@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SMC0603_105':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1429@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1429@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1429@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS30089@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins30089@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins30089@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_SMC0603_100PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS30105@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins30105@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins30105@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS30921@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins30921@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins30921@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_SMC0603_100PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS30937@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins30937@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins30937@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C34 'CAP NP_SMC0603_1.5PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS32746@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins32746@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins32746@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C35 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS35371@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins35371@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins35371@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C36 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS35678@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins35678@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins35678@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C37 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS36164@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins36164@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins36164@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C38 'CAP NP_SMC0603_104':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS36201@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins36201@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins36201@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C39 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37346@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37346@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37346@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1491@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1491@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1491@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C40 'CAP NP_SMC0603_104':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37374@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37374@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37374@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C41 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37390@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37390@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37390@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C42 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37458@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37458@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37458@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C43 'CAP NP_SMC0603_102':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS41125@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins41125@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins41125@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C44 'CAP NP_SMC0603_12PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS49897@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins49897@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins49897@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C45 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51568@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51568@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51568@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C46 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51594@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51594@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51594@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C47 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51620@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51620@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51620@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C48 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS52964@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins52964@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins52964@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C49 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS52980@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins52980@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins52980@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_SMC0603_22PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1976@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1976@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1976@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C50 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS52996@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins52996@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins52996@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C51 'CAP POL_SMCT6_3X7_7MM_220UF/16V':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS54949@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins54949@discrete.\cap pol.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins54949@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C52 'CAP POL_SMCT6_3X7_7MM_220UF/25V':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS54977@DISCRETE.CAP POL.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins54977@discrete.\cap pol.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins54977@discrete.\cap pol.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C53 'CAP NP_SMC0603_105':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS55893@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins55893@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins55893@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C54 'CAP NP_SMC0603_105':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS56407@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins56407@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins56407@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_SMC0603_22PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS2002@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins2002@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins2002@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SMC0603_105':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3082@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3082@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3082@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_SMC0603_103':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3108@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3108@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3108@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_SMC0603_100PF':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3134@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3134@discrete.\cap np.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3134@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_SMD080521_LED':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1861@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1861@discrete.\led.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1861@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'DIODE VARACTOR_SMD0603_KV1417':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS70439@DISCRETE.DIODE VARACTOR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins70439@discrete.\diode varactor.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins70439@discrete.\diode varactor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'DIODE_SMD0603_HSC277':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS44984@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins44984@discrete.\diode.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins44984@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'DIODE VARACTOR_SMD0603_KV1417':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS69981@DISCRETE.DIODE VARACTOR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins69981@discrete.\diode varactor.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins69981@discrete.\diode varactor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D8 'DIODE_SMD0603_HSC277':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS47176@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins47176@discrete.\diode.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins47176@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D9 'DIODE_SMD0603_HSC277':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS47276@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins47276@discrete.\diode.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins47276@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB1 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1211@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1211@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1211@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB10 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS57649@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins57649@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins57649@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB2 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1229@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1229@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1229@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB3 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS5857@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins5857@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins5857@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB4 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13664@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13664@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13664@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB5 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS23421@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins23421@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins23421@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB6 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS23480@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins23480@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins23480@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB7 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS28809@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins28809@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins28809@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB8 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS36085@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins36085@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins36085@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FB9 'FEBER_SML0805_FEBER':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37302@CAD_SCHLIB.FEBER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37302@cad_schlib.\feber.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37302@cad_schlib.\feber.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CONN JACK PWR_DC5MMSOCKET_DC-5M':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS58146@CONNECTOR.CONN JACK PWR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins58146@connector.\conn jack pwr.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins58146@connector.\conn jack pwr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'SMA-5PIN_SMA-KWE_SMA-5PIN':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS78354@CAD_SCHLIB.SMA-5PIN.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins78354@cad_schlib.\sma-5pin.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins78354@cad_schlib.\sma-5pin.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SML0805_56NH/SM':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3813@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3813@discrete.\inductor.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3813@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_SML0805_360NH/SM':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13768@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13768@discrete.\inductor.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13768@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR IRON_SML0805_10UH/SM':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS24499@DISCRETE.INDUCTOR IRON.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins24499@discrete.\inductor iron.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins24499@discrete.\inductor iron.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR IRON_SML0805_RFC':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS28869@DISCRETE.INDUCTOR IRON.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins28869@discrete.\inductor iron.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins28869@discrete.\inductor iron.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5 'INDUCTOR_SML0805_180NH/SM':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS47260@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins47260@discrete.\inductor.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins47260@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '3SK164_SMSOT1431234_BF998':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS281@TRANSISTOR.3SK164.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins281@transistor.\3sk164.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins281@transistor.\3sk164.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 'MMBT3904/SOT_SMSOT23213_2SC3356':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS72183@TRANSISTOR.MMBT3904/SOT.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins72183@transistor.\mmbt3904/sot.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins72183@transistor.\mmbt3904/sot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q5 'MMBT3904/SOT_SMSOT23213_2SC3356':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS72070@TRANSISTOR.MMBT3904/SOT.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins72070@transistor.\mmbt3904/sot.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins72070@transistor.\mmbt3904/sot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7 'MOSFET N DGS_SMSOT89123_2SK3475':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS39125@TRANSISTOR.MOSFET N DGS.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins39125@transistor.\mosfet n dgs.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins39125@transistor.\mosfet n dgs.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS310@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins310@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins310@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_SMR0603_360R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS6733@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins6733@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins6733@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_SMR0603_200R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13752@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13752@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13752@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_SMR0603_3.3K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13804@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13804@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13804@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_SMR0603_1.5K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13926@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13926@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13926@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_SMR0603_50R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS13958@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins13958@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins13958@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS15314@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins15314@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins15314@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_SMR0603_150K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS15348@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins15348@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins15348@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_SMR0603_1.8K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS22885@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins22885@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins22885@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS2978@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins2978@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins2978@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS23355@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins23355@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins23355@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_SMR0603_3.6K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS31507@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins31507@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins31507@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_SMR0603_50R/1W':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS33138@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins33138@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins33138@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_SMR0603_50R/1W':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS33264@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins33264@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins33264@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_SMR0603_51R/1W':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS33290@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins33290@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins33290@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_SMR0603_50R/1W':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS40749@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins40749@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins40749@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_SMR0603_3K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51292@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51292@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51292@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_SMR0603_3K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51318@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51318@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51318@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_SMR0603_3K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51344@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51344@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51344@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3004@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3004@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3004@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_SMR0603_100R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51704@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51704@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51704@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_SMR0603_100R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51720@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51720@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51720@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_SMR0603_100R':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS51736@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins51736@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins51736@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SMR0603_2K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3030@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3030@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3030@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3056@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3056@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3056@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SMR0603_100K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS3589@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins3589@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins3589@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SMR0603_1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS4559@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins4559@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins4559@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SMR0603_12K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS5284@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins5284@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins5284@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SMR0603_10K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS5310@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins5310@discrete.\r.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins5310@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ RT1 'NTC_SMR0603_NTC-1K':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS31557@DISCRETE.NTC.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins31557@discrete.\ntc.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins31557@discrete.\ntc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'TRANSFORMER_T-10X10-4P_4:1  500':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS23721@DISCRETE.TRANSFORMER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins23721@discrete.\transformer.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins23721@discrete.\transformer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T2 'TRANSFORMER_T-10X10-4P_1:2 1UH':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS29872@DISCRETE.TRANSFORMER.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins29872@discrete.\transformer.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins29872@discrete.\transformer.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MB1504_FPT-16-M06_MB1504_PLL':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS629@CAD_SCHLIB.MB1504.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins629@cad_schlib.\mb1504.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins629@cad_schlib.\mb1504.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'AD8307_SOIC8_AD8307':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS34289@CAD_SCHLIB.AD8307.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins34289@cad_schlib.\ad8307.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins34289@cad_schlib.\ad8307.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'AD8307_SOIC8_AD8307':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS37414@CAD_SCHLIB.AD8307.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins37414@cad_schlib.\ad8307.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins37414@cad_schlib.\ad8307.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 '78XX/SM_TO252123DPAK_CJ78M05TO2':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS76262@REGULATOR.78XX/SM.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins76262@regulator.\78xx/sm.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins76262@regulator.\78xx/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL/SM_Y-49S_8.000000MHZ/SM':;
+
+SECTION_NUMBER 1
+ '@RFSIGNALGENERATOR.SCHEMATIC1(SCH_1):INS1936@DISCRETE.CRYSTAL/SM.NORMAL(CHIPS)':
+ C_PATH='@rfsignalgenerator.schematic1(sch_1):ins1936@discrete.\crystal/sm.normal\(chips)',
+ P_PATH='@rfsignalgenerator.schematic1(sch_1):page2_ins1936@discrete.\crystal/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

@@ -1,0 +1,158 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : RFSIGNALGENERATOR.brd                         )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Thu Jun 14 18:38:34 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\ALLEGRO'
+Design Directory:            'E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro'
+Old design name:             'E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd'
+New design name:             'E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd'
+
+CmdLine: netrev.exe -y 1 -n -i E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\ALLEGRO E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\allegro\RFSIGNALGENERATOR.brd E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\allegro\RFSIGNALGENERATOR.brd
+
+------ Preparing to read pst files ------
+
+Starting to read E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstchip.dat 
+   Finished reading E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstchip.dat (00:00:00.02)
+Starting to read E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstxprt.dat 
+   Finished reading E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstxprt.dat (00:00:00.00)
+Starting to read E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstxnet.dat 
+   Finished reading E:/MY JINAN DOC/BJ REFERENCE DOC/RFSIGNALGENERATOR/ALLEGRO/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMCT6_3X7_7MM' used by RefDes C51 for device 'CAP POL_SMCT6_3X7_7MM_220UF/16V' not found in PSMPATH or must be "dbdoctor"ed.
+
+#2   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMCT6_3X7_7MM' used by RefDes C52 for device 'CAP POL_SMCT6_3X7_7MM_220UF/25V' not found in PSMPATH or must be "dbdoctor"ed.
+
+#3   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'SMD0805' for device 'LED_SMD0805_LED' has extra pin 'A'.
+
+ERROR(SPMHNI-196): Symbol 'SMD0805' for device 'LED_SMD0805_LED' has extra pin 'C'.
+
+ERROR(SPMHNI-195): Symbol 'SMD0805' for device 'LED_SMD0805_LED' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'SMD0805' for device 'LED_SMD0805_LED' is missing pin '1'.
+
+#4   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMD0603' used by RefDes D4 for device 'DIODE VARACTOR31_SMD0603_KV1471' not found in PSMPATH or must be "dbdoctor"ed.
+
+#5   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMD0603' used by RefDes D5 for device 'DIODE_SMD0603_HSC277' not found in PSMPATH or must be "dbdoctor"ed.
+
+#6   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMA-KWE' used by RefDes J1 for device 'BNC_SMA-KWE_BNC' not found in PSMPATH or must be "dbdoctor"ed.
+
+#7   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'DC5MMSOCKET' used by RefDes J2 for device 'CONN JACK PWR_DC5MMSOCKET_DC-5M' not found in PSMPATH or must be "dbdoctor"ed.
+
+#8   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' has extra pin 'B'.
+
+ERROR(SPMHNI-196): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' has extra pin 'C'.
+
+ERROR(SPMHNI-196): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' has extra pin 'E'.
+
+ERROR(SPMHNI-195): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' is missing pin '2'.
+
+ERROR(SPMHNI-195): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' is missing pin '1'.
+
+ERROR(SPMHNI-195): Symbol 'SMSOT23BEC' for device '2N3903/TO_SMSOT23BEC_2SC3356' is missing pin '3'.
+
+#9   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'T-10X10-4P' used by RefDes T1 for device 'TRANSFORMER_T-10X10-4P_4:1  500' not found in PSMPATH or must be "dbdoctor"ed.
+
+#10  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'T-10X10-4P' used by RefDes T2 for device 'TRANSFORMER_T-10X10-4P_1:2 1UH' not found in PSMPATH or must be "dbdoctor"ed.
+
+#11  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+ERROR(SPMHNI-196): Symbol 'TO252AADPAK' for device '78XX/SM_TO252AADPAK_CJ78M05/TO-' has extra pin '4'.
+
+ERROR(SPMHNI-195): Symbol 'TO252AADPAK' for device '78XX/SM_TO252AADPAK_CJ78M05/TO-' is missing pin '2'.
+
+#12  WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'Y-49S' used by RefDes Y1 for device 'CRYSTAL/SM_Y-49S_8.000000MHZ/SM' not found in PSMPATH or must be "dbdoctor"ed.
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib/DC-5mm/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
+           C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
+           E:/my jinan doc/BJ reference doc/CadLib/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 14 18:38:34 2018
+   DESIGN NAME : 'RFSIGNALGENERATOR'
+   PACKAGING ON Mar  2 2016 00:37:24
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ 12 warnings detected
+
+cpu time      0:00:49
+elapsed time  0:00:01
+

@@ -1,0 +1,26 @@
+\t (00:00:05) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:05)     Journal start - Wed Jun 20 18:51:34 2018
+\t (00:00:05)         Host=DESKTOP-S7SCATP User=kon Pid=12120 CPUs=8
+\t (00:00:05) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:05) 
+   (00:00:05) Loading axlcore.cxt 
+\t (00:00:07) Opening existing design...
+\d (00:00:07) Design opened: E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB1.brd
+\i (00:00:07) trapsize 2741
+\i (00:00:07) trapsize 2808
+\i (00:00:07) trapsize 2812
+\i (00:00:07) trapsize 2731
+\i (00:00:07) trapsize 42448
+\i (00:00:07) generaledit 
+\i (00:00:08) drag_start grid 20.2718 7.6719
+\i (00:00:08) move 
+\t (00:00:09) last pick:  19.8120 8.5344
+\t (00:00:09) Moving FB3 / FEBER_SML0805_FEBER / SML0805.
+\t (00:00:09) Pick new location for the element(s).
+\i (00:00:09) drag_stop grid 8.1477 8.1089
+\i (00:00:09) generaledit 
+\i (00:00:10) save 
+\i (00:00:12) fillin yes 
+\i (00:00:12) generaledit 
+\i (00:00:13) exit 
+\t (00:00:13)     Journal end - Wed Jun 20 18:51:43 2018

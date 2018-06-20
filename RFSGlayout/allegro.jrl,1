@@ -1,0 +1,50 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Wed Jun 20 18:51:13 2018
+\t (00:00:03)         Host=DESKTOP-S7SCATP User=kon Pid=12040 CPUs=8
+\t (00:00:03) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\d (00:00:05) Design opened: E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB1.brd
+\i (00:00:06) trapsize 2737
+\i (00:00:06) trapsize 2804
+\i (00:00:06) trapsize 2808
+\i (00:00:06) trapsize 2727
+\i (00:00:06) trapsize 42385
+\i (00:00:06) generaledit 
+\i (00:00:07) drag_start grid 4.7096 9.2490
+\i (00:00:07) move 
+\t (00:00:07) last pick:  2.8194 9.7282
+\t (00:00:07) Moving FB3 / FEBER_SML0805_FEBER / SML0805.
+\t (00:00:07) Pick new location for the element(s).
+\i (00:00:09) drag_stop grid 19.8147 8.5401
+\i (00:00:09) generaledit 
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 15.5068 3.0869
+\i (00:00:09) trapsize 1363
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 15.5067 3.0870
+\i (00:00:09) trapsize 682
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 15.5068 3.0870
+\i (00:00:10) trapsize 1363
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 15.5067 3.0871
+\i (00:00:10) trapsize 2727
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 15.5068 3.0870
+\i (00:00:10) trapsize 5453
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 14.7434 2.7599
+\i (00:00:11) trapsize 2727
+\i (00:00:13) save 
+\i (00:00:15) fillin yes 
+\i (00:00:15) generaledit 
+\i (00:00:17) exit 
+\t (00:00:17)     Journal end - Wed Jun 20 18:51:28 2018

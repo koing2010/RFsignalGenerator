@@ -8,10 +8,112 @@
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\ALLEGRO")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\RFSIGNALGENERATOR.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
     (Board_sim_option "VHDL_flow"))
-  (Folder "Outputs")
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (SMA-5PIN
+      (FullPartName "SMA-5PIN.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (78XX/SM
+      (FullPartName "78XX/SM.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (LM78xxx
+      (FullPartName "LM78xxx.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (MMBT3904/SOT
+      (FullPartName "MMBT3904/SOT.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (TRAN_HM31
+      (FullPartName "TRAN_HM31.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE VARACTOR"
+      (FullPartName "DIODE VARACTOR.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CONN JACK PWR"
+      (FullPartName "CONN JACK PWR.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N DGS"
+      (FullPartName "MOSFET N DGS.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("MOSFET N"
+      (FullPartName "MOSFET N.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (GND
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -51,11 +153,6 @@
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    ("MOSFET N"
-      (FullPartName "MOSFET N.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
     ("TRNSFMR TY-401P"
       (FullPartName "TRNSFMR TY-401P.Normal")
       (LibraryName
@@ -79,59 +176,6 @@
       (FullPartName "2N3903.Normal")
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
-      (DeviceIndex "0"))
-    (2N3903/TO
-      (FullPartName "2N3903/TO.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
-      (DeviceIndex "0"))
-    (CRYSTAL/SM
-      (FullPartName "CRYSTAL/SM.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (LED
-      (FullPartName "LED.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("DIODE VARACTOR31"
-      (FullPartName "DIODE VARACTOR31.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("CAP NP"
-      (FullPartName "CAP NP.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (Feber
-      (FullPartName "Feber.Normal")
-      (LibraryName
-         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (VCC_BAR
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (0
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (MB1504
-      (FullPartName "MB1504.Normal")
-      (LibraryName
-         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
-      (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (3SK164
-      (FullPartName "3SK164.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "kon")
   (LastUsedLibraryBrowseDirectory
@@ -147,9 +191,9 @@
       (Path "Design Resources"
          "e:\my jinan doc\bj reference doc\rfsignalgenerator\rfsignalgenerator.dsn"
          "Design Cache")
+      (Path "Outputs")
       (Select "Design Resources"
-         "e:\my jinan doc\bj reference doc\rfsignalgenerator\rfsignalgenerator.dsn"
-         "Design Cache" "3SK166"))
+         "e:\my jinan doc\bj reference doc\rfsignalgenerator\rfsignalgenerator.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -160,8 +204,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 234 1426 234 850")
-        (Scroll "393 648")
-        (Zoom "114")
+        (Scroll "857 426")
+        (Zoom "140")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\RFSIGNALGENERATOR.DSN")
@@ -171,10 +215,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -8 -31 260 1452 260 876")
-        (Scroll "0 0")
+        (Scroll "0 30")
         (Zoom "100")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\RFSIGNALGENERATOR.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "AMP"))))
+      (Page "AMP")))
+  (ISPCBBASICLICENSE "false"))

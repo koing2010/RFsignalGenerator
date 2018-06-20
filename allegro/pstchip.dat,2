@@ -1,0 +1,850 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Jun-20-2018 at 16:46:23}
+primitive 'CAP NP_SMC0603_105';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='105';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_1000PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='1000pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_20PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='20pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_102';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='102';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_104';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='104';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_103';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='103';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_100PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='100pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_1.5PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='1.5pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_12PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='12pF';
+  end_body;
+end_primitive;
+primitive 'CAP NP_SMC0603_22PF';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP NP';
+    JEDEC_TYPE='smc0603';
+    VALUE='22pF';
+  end_body;
+end_primitive;
+primitive 'CAP POL_SMCT6_3X7_7MM_220UF/16V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='smct6_3x7_7MM';
+    VALUE='220uF/16v';
+  end_body;
+end_primitive;
+primitive 'CAP POL_SMCT6_3X7_7MM_220UF/25V';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP POL';
+    JEDEC_TYPE='smct6_3x7_7MM';
+    VALUE='220uF/25v';
+  end_body;
+end_primitive;
+primitive 'LED_SMD080521_LED';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='smd080521';
+    VALUE='LED';
+  end_body;
+end_primitive;
+primitive 'DIODE VARACTOR_SMD0603_KV1417';
+  pin
+    'ANODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE VARACTOR';
+    JEDEC_TYPE='smd0603';
+    VALUE='KV1417';
+  end_body;
+end_primitive;
+primitive 'DIODE_SMD0603_HSC277';
+  pin
+    'A':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'K':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='DIODE';
+    JEDEC_TYPE='smd0603';
+    VALUE='HSC277';
+  end_body;
+end_primitive;
+primitive 'FEBER_SML0805_FEBER';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      OUTPUT_LOAD='(*)';
+    '2':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='Feber';
+    JEDEC_TYPE='sml0805';
+    VALUE='Feber';
+  end_body;
+end_primitive;
+primitive 'CONN JACK PWR_DC5MMSOCKET_DC-5M';
+  pin
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CONN JACK PWR';
+    JEDEC_TYPE='DC5mmSocket';
+    VALUE='DC-5mm';
+  end_body;
+end_primitive;
+primitive 'SMA-5PIN_SMA-KWE_SMA-5PIN';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SMA-5PIN';
+    JEDEC_TYPE='SMA-KWE';
+    VALUE='SMA-5PIN';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_SML0805_56NH/SM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='SML0805';
+    VALUE='56nH/SM';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_SML0805_360NH/SM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='SML0805';
+    VALUE='360nH/SM';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR IRON_SML0805_10UH/SM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR IRON';
+    JEDEC_TYPE='SML0805';
+    VALUE='10uH/SM';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR IRON_SML0805_RFC';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR IRON';
+    JEDEC_TYPE='SML0805';
+    VALUE='RFC';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_SML0805_180NH/SM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='INDUCTOR';
+    JEDEC_TYPE='SML0805';
+    VALUE='180nH/SM';
+  end_body;
+end_primitive;
+primitive '3SK164_SMSOT1431234_BF998';
+  pin
+    'GATE2':
+      PIN_NUMBER='(3)';
+      INPUT_LOAD='(*)';
+    'GATE1':
+      PIN_NUMBER='(2)';
+      INPUT_LOAD='(*)';
+    'DRAIN':
+      PIN_NUMBER='(4)';
+      INPUT_LOAD='(*)';
+    'SOURCE':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='3SK164';
+    JEDEC_TYPE='SMSOT1431234';
+    VALUE='BF998';
+  end_body;
+end_primitive;
+primitive 'MMBT3904/SOT_SMSOT23213_2SC3356';
+  pin
+    'B':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'E':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MMBT3904/SOT';
+    JEDEC_TYPE='smsot23213';
+    VALUE='2sc3356';
+  end_body;
+end_primitive;
+primitive 'MOSFET N DGS_SMSOT89123_2SK3475';
+  pin
+    'G':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'D':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'S':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='MOSFET N DGS';
+    JEDEC_TYPE='SMSOT89123';
+    VALUE='2SK3475';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='1K';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_360R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='360R';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_200R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='200R';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_3.3K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='3.3k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_1.5K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='1.5k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_50R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='50R';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_100K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='100K';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_150K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='150k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_1.8K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='1.8k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_3.6K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='3.6k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_50R/1W';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='50R/1W';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_51R/1W';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='51R/1W';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_3K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='3K';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_100R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='100R';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_2K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='2K';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_12K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='12k';
+  end_body;
+end_primitive;
+primitive 'R_SMR0603_10K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr0603';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'NTC_SMR0603_NTC-1K';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='NTC';
+    JEDEC_TYPE='smr0603';
+    VALUE='NTC-1k';
+  end_body;
+end_primitive;
+primitive 'TRANSFORMER_T-10X10-4P_4:1  500';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TRANSFORMER';
+    JEDEC_TYPE='T-10x10-4P';
+    VALUE='4:1  500nH';
+  end_body;
+end_primitive;
+primitive 'TRANSFORMER_T-10X10-4P_1:2 1UH';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TRANSFORMER';
+    JEDEC_TYPE='T-10x10-4P';
+    VALUE='1:2 1uH';
+  end_body;
+end_primitive;
+primitive 'MB1504_FPT-16P-M06_MB1504_PLL';
+  pin
+    'OSCIN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'OSCOUT':
+      PIN_NUMBER='(2)';
+      OUTPUT_LOAD='(*)';
+    'VP':
+      PIN_NUMBER='(3)';
+      PINUSE='POWER';
+    'VCC':
+      PIN_NUMBER='(4)';
+      PINUSE='POWER';
+    'DO':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'LD':
+      PIN_NUMBER='(7)';
+      OUTPUT_LOAD='(*)';
+    'GND':
+      PIN_NUMBER='(6)';
+      PINUSE='POWER';
+    'FIN':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+    'CLK':
+      PIN_NUMBER='(9)';
+      INPUT_LOAD='(*)';
+    'DATA':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'LE':
+      PIN_NUMBER='(11)';
+      INPUT_LOAD='(*)';
+    'FC':
+      PIN_NUMBER='(12)';
+      INPUT_LOAD='(*)';
+    'FR':
+      PIN_NUMBER='(13)';
+      OUTPUT_LOAD='(*)';
+    'FP':
+      PIN_NUMBER='(14)';
+      OUTPUT_LOAD='(*)';
+    'P':
+      PIN_NUMBER='(15)';
+      OUTPUT_LOAD='(*)';
+    'R':
+      PIN_NUMBER='(16)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='MB1504';
+    JEDEC_TYPE='FPT-16P-M06';
+    VALUE='MB1504_PLL';
+  end_body;
+end_primitive;
+primitive 'AD8307_SOIC8_AD8307';
+  pin
+    'INM':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'COM':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'OFS':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'OUT':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'INT':
+      PIN_NUMBER='(5)';
+      INPUT_LOAD='(*)';
+    'ENB':
+      PIN_NUMBER='(6)';
+      INPUT_LOAD='(*)';
+    'VPS':
+      PIN_NUMBER='(7)';
+      PINUSE='POWER';
+    'INP':
+      PIN_NUMBER='(8)';
+      INPUT_LOAD='(*)';
+  end_pin;
+  body
+    PART_NAME='AD8307';
+    JEDEC_TYPE='SOIC8';
+    VALUE='AD8307';
+  end_body;
+end_primitive;
+primitive '78XX/SM_TO252123DPAK_CJ78M05TO2';
+  pin
+    'VIN':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'VOUT':
+      PIN_NUMBER='(3)';
+      OUTPUT_LOAD='(*)';
+  end_pin;
+  body
+    POWER_PINS='(GND:2)';
+    PART_NAME='78XX/SM';
+    JEDEC_TYPE='to252123dpak';
+    VALUE='CJ78M05TO252';
+  end_body;
+end_primitive;
+primitive 'CRYSTAL/SM_Y-49S_8.000000MHZ/SM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CRYSTAL/SM';
+    JEDEC_TYPE='Y-49S';
+    VALUE='8.000000Mhz/SM';
+  end_body;
+end_primitive;
+END.

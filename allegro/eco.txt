@@ -1,0 +1,683 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C1.2           C2.2           C3.2           
+                                 C4.2           C5.1           C6.1           
+                                 C7.2           C8.2           C9.2           
+                                 C12.1          C14.2          C15.2          
+                                 C18.2          C19.2          C20.2          
+                                 C21.2          C24.2          C25.2          
+                                 C26.2          C30.2          C31.2          
+                                 C32.2          C33.2          C34.2          
+                                 C35.1          C37.2          C38.2          
+                                 C40.2          C41.2          C42.1          
+                                 C43.2          C45.2          C46.2          
+                                 C47.2          C48.2          C49.2          
+                                 C50.2          C51.2          C52.2          
+                                 C53.2          C54.2          D5.1           
+                                 D6.3           D8.1           D9.1           
+                                 J2.1           J2.3           Q7.3           
+                                 R7.1           R8.1           R12.1          
+                                 R15.1          R16.1          R17.1          
+                                 RT1.2          T1.8           T2.8           
+                                 U1.6           U2.2           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  AMP_IN       pins ADDED TO this new net
+                                 C22.2          Q7.2           R22.1          
+                                 R26.2          RT1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  CAP_ADD      pins ADDED TO this new net
+                                 C48.1          R30.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.2                           
+                                 R25.1                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L_180NH_EN   pins ADDED TO this new net
+                                 C50.1          R32.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  L_56NH_EN    pins ADDED TO this new net
+                                 C49.1          R31.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MB1504_CLK   pins ADDED TO this new net
+                                 U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MB1504_DATA  pins ADDED TO this new net
+                                 U1.10          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  MB1504_LE    pins ADDED TO this new net
+                                 U1.11          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00739       pins ADDED TO this new net
+                                 C2.1           C3.1           FB1.2          
+                                 U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00751       pins ADDED TO this new net
+                                 C1.1           C4.1           FB2.2          
+                                 U1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01952       pins ADDED TO this new net
+                                 C6.2           U1.1           Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01959       pins ADDED TO this new net
+                                 C5.2           U1.2           Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02788       pins ADDED TO this new net
+                                 R1.2           U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03150       pins ADDED TO this new net
+                                 R2.2           R3.1           R5.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03154       pins ADDED TO this new net
+                                 C8.1           R3.2           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N003200      pins ADDED TO this new net
+                                 D3.1           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03323       pins ADDED TO this new net
+                                 C9.1           R4.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03390       pins ADDED TO this new net
+                                 R2.1           U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03615       pins ADDED TO this new net
+                                 C10.1          C44.2          D4.1           
+                                 D6.1           R6.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N03716       pins ADDED TO this new net
+                                 C10.2          C11.1          L1.1           
+                                 L5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04288       pins ADDED TO this new net
+                                 C11.2          C13.2          Q3.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R8.2           R9.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N04575       pins ADDED TO this new net
+                                 C12.2          C13.1          C16.1          
+                                 C23.2          Q3.3           R7.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N05777       pins ADDED TO this new net
+                                 C14.1          C15.1          FB3.1          
+                                 Q3.1           R9.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07023       pins ADDED TO this new net
+                                 C16.2          U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N07106       pins ADDED TO this new net
+                                 C24.1          Q1.1           R12.2          
+                                 R19.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13678       pins ADDED TO this new net
+                                 C19.1          C20.1          FB4.1          
+                                 L2.1           R13.2          R14.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13830       pins ADDED TO this new net
+                                 C22.1          L2.2           Q5.1           
+                                 R13.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13858       pins ADDED TO this new net
+                                 C27.2          Q5.2           R14.1          
+                                 R15.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13916       pins ADDED TO this new net
+                                 C21.1          Q5.3           R16.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15516       pins ADDED TO this new net
+                                 C23.1          Q1.2           R17.2          
+                                 R18.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N23186       pins ADDED TO this new net
+                                 C18.1          Q1.3           R20.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N23276       pins ADDED TO this new net
+                                 C25.1          FB6.1          R20.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N23435       pins ADDED TO this new net
+                                 FB5.1          L3.1           R19.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N24515       pins ADDED TO this new net
+                                 C26.1          L3.2           T1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26615       pins ADDED TO this new net
+                                 C27.1          T1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N27552       pins ADDED TO this new net
+                                 Q1.4           T1.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N29922       pins ADDED TO this new net
+                                 Q7.1           T2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30079       pins ADDED TO this new net
+                                 C30.1          C31.1          L4.2           
+                                 T2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N30907       pins ADDED TO this new net
+                                 C32.1          C33.1          FB7.2          
+                                 L4.1           R22.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N32732       pins ADDED TO this new net
+                                 C34.1          R23.2          R24.2          
+                                 T2.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N33342       pins ADDED TO this new net
+                                 C36.1          R23.1          R25.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N33404       pins ADDED TO this new net
+                                 C39.1          J1.1           R24.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35694       pins ADDED TO this new net
+                                 C35.2          U2.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N35698       pins ADDED TO this new net
+                                 C36.2          U2.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N36112       pins ADDED TO this new net
+                                 C37.1          C38.1          FB8.1          
+                                 U2.6           U2.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37316       pins ADDED TO this new net
+                                 C40.1          C41.1          FB9.1          
+                                 U3.6           U3.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37372       pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 C39.2          U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N37484       pins ADDED TO this new net
+                                 C42.2          U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N47507       pins ADDED TO this new net
+                                 D8.2           L1.2           R29.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N47511       pins ADDED TO this new net
+                                 D9.2           L5.2           R28.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N49167       pins ADDED TO this new net
+                                 C7.1           R5.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N49568       pins ADDED TO this new net
+                                 C44.1          D4.3           D5.2           
+                                 R27.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N51752       pins ADDED TO this new net
+                                 C45.1          R27.1          R30.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N51756       pins ADDED TO this new net
+                                 C46.1          R29.1          R31.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N51760       pins ADDED TO this new net
+                                 C47.1          R28.1          R32.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_LEVEL_DET_OUT_50R pins ADDED TO this new net
+                                 U2.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RF_LEVEL_DET_OUT_TARGET pins ADDED TO this new net
+                                 U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VAGC         pins ADDED TO this new net
+                                 FB6.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_12V      pins ADDED TO this new net
+                                 C52.1          C54.1          FB4.2          
+                                 FB5.2          FB7.1          FB10.1         
+                                 R18.2          U4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_5V       pins ADDED TO this new net
+                                 C51.1          C53.1          D3.2           
+                                 FB2.1          FB3.2          FB8.2          
+                                 FB9.2          U4.3           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  VCC_7V       pins ADDED TO this new net
+                                 FB1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCC_PWR      pins ADDED TO this new net
+                                 FB10.2         J2.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ 2N3903/TO_SMSOT23BEC_2SC3356
+ 3SK164_SMSOT1431234_BF998
+ 78XX/SM_TO252AADPAK_CJ78M05/TO-
+ AD8307_SOIC8_AD8307
+ BNC_SMA-KWE_BNC
+ CAP NP_SMC0603_102
+ CAP NP_SMC0603_103
+ CAP NP_SMC0603_104
+ CAP NP_SMC0603_105
+ CAP NP_SMC0603_1.5PF
+ CAP NP_SMC0603_1000PF
+ CAP NP_SMC0603_100PF
+ CAP NP_SMC0603_12PF
+ CAP NP_SMC0603_20PF
+ CAP NP_SMC0603_22PF
+ CAP POL_SMCT6_3X7_7MM_220UF/16V
+ CAP POL_SMCT6_3X7_7MM_220UF/25V
+ CONN JACK PWR_DC5MMSOCKET_DC-5M
+ CRYSTAL/SM_Y-49S_8.000000MHZ/SM
+ DIODE VARACTOR31_SMD0603_KV1471
+ DIODE_SMD0603_HSC277
+ FEBER_SML0805_FEBER
+ INDUCTOR IRON_SML0805_10UH/SM
+ INDUCTOR IRON_SML0805_RFC
+ INDUCTOR_SML0805_180NH/SM
+ INDUCTOR_SML0805_360NH/SM
+ INDUCTOR_SML0805_56NH/SM
+ LED_SMD0805_LED
+ MB1504_SOIC16_MB1504_PLL
+ MOSFET N DGS_SMSOT89123_2SK3475
+ NTC_SMR0603_NTC-1K
+ R_SMR0603_1.5K
+ R_SMR0603_1.8K
+ R_SMR0603_100K
+ R_SMR0603_100R
+ R_SMR0603_10K
+ R_SMR0603_12K
+ R_SMR0603_150K
+ R_SMR0603_1K
+ R_SMR0603_200R
+ R_SMR0603_2K
+ R_SMR0603_3.3K
+ R_SMR0603_3.6K
+ R_SMR0603_360R
+ R_SMR0603_3K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R_SMR0603_50R
+ R_SMR0603_50R/1W
+ R_SMR0603_51R/1W
+ TRANSFORMER_T-10X10-4P_1:2 1UH
+ TRANSFORMER_T-10X10-4P_4:1  500
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_SMC0603_105    
+ C2                  CAP NP_SMC0603_103    
+ C3                  CAP NP_SMC0603_105    
+ C4                  CAP NP_SMC0603_103    
+ C5                  CAP NP_SMC0603_22PF   
+ C6                  CAP NP_SMC0603_22PF   
+ C7                  CAP NP_SMC0603_105    
+ C8                  CAP NP_SMC0603_103    
+ C9                  CAP NP_SMC0603_100PF  
+ C10                 CAP NP_SMC0603_1000PF 
+ C11                 CAP NP_SMC0603_1000PF 
+ C12                 CAP NP_SMC0603_20PF   
+ C13                 CAP NP_SMC0603_20PF   
+ C14                 CAP NP_SMC0603_102    
+ C15                 CAP NP_SMC0603_104    
+ C16                 CAP NP_SMC0603_20PF   
+ C18                 CAP NP_SMC0603_102    
+ C19                 CAP NP_SMC0603_102    
+ C20                 CAP NP_SMC0603_104    
+ C21                 CAP NP_SMC0603_102    
+ C22                 CAP NP_SMC0603_102    
+ C23                 CAP NP_SMC0603_20PF   
+ C24                 CAP NP_SMC0603_102    
+ C25                 CAP NP_SMC0603_102    
+ C26                 CAP NP_SMC0603_102    
+ C27                 CAP NP_SMC0603_102    
+ C30                 CAP NP_SMC0603_102    
+ C31                 CAP NP_SMC0603_100PF  
+ C32                 CAP NP_SMC0603_102    
+ C33                 CAP NP_SMC0603_100PF  
+ C34                 CAP NP_SMC0603_1.5PF  
+ C35                 CAP NP_SMC0603_102    
+ C36                 CAP NP_SMC0603_102    
+ C37                 CAP NP_SMC0603_102    
+ C38                 CAP NP_SMC0603_104    
+ C39                 CAP NP_SMC0603_102    
+ C40                 CAP NP_SMC0603_104    
+ C41                 CAP NP_SMC0603_102    
+ C42                 CAP NP_SMC0603_102    
+ C43                 CAP NP_SMC0603_102    
+ C44                 CAP NP_SMC0603_12PF   
+ C45                 CAP NP_SMC0603_103    
+ C46                 CAP NP_SMC0603_103    
+ C47                 CAP NP_SMC0603_103    
+ C48                 CAP NP_SMC0603_103    
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C49                 CAP NP_SMC0603_103    
+ C50                 CAP NP_SMC0603_103    
+ C51                 CAP POL_SMCT6_3X7_7MM_220UF/16V 
+ C52                 CAP POL_SMCT6_3X7_7MM_220UF/25V 
+ C53                 CAP NP_SMC0603_105    
+ C54                 CAP NP_SMC0603_105    
+ D3                  LED_SMD0805_LED       
+ D4                  DIODE VARACTOR31_SMD0603_KV1471 
+ D5                  DIODE_SMD0603_HSC277  
+ D6                  DIODE VARACTOR31_SMD0603_KV1471 
+ D8                  DIODE_SMD0603_HSC277  
+ D9                  DIODE_SMD0603_HSC277  
+ FB1                 FEBER_SML0805_FEBER   
+ FB2                 FEBER_SML0805_FEBER   
+ FB3                 FEBER_SML0805_FEBER   
+ FB4                 FEBER_SML0805_FEBER   
+ FB5                 FEBER_SML0805_FEBER   
+ FB6                 FEBER_SML0805_FEBER   
+ FB7                 FEBER_SML0805_FEBER   
+ FB8                 FEBER_SML0805_FEBER   
+ FB9                 FEBER_SML0805_FEBER   
+ FB10                FEBER_SML0805_FEBER   
+ J1                  BNC_SMA-KWE_BNC       
+ J2                  CONN JACK PWR_DC5MMSOCKET_DC-5M 
+ L1                  INDUCTOR_SML0805_56NH/SM 
+ L2                  INDUCTOR_SML0805_360NH/SM 
+ L3                  INDUCTOR IRON_SML0805_10UH/SM 
+ L4                  INDUCTOR IRON_SML0805_RFC 
+ L5                  INDUCTOR_SML0805_180NH/SM 
+ Q1                  3SK164_SMSOT1431234_BF998 
+ Q3                  2N3903/TO_SMSOT23BEC_2SC3356 
+ Q5                  2N3903/TO_SMSOT23BEC_2SC3356 
+ Q7                  MOSFET N DGS_SMSOT89123_2SK3475 
+ R1                  R_SMR0603_1K          
+ R2                  R_SMR0603_1K          
+ R3                  R_SMR0603_1K          
+ R4                  R_SMR0603_2K          
+ R5                  R_SMR0603_1K          
+ R6                  R_SMR0603_100K        
+ R7                  R_SMR0603_1K          
+ R8                  R_SMR0603_12K         
+ R9                  R_SMR0603_10K         
+ R12                 R_SMR0603_360R        
+ R13                 R_SMR0603_200R        
+ R14                 R_SMR0603_3.3K        
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R15                 R_SMR0603_1.5K        
+ R16                 R_SMR0603_50R         
+ R17                 R_SMR0603_100K        
+ R18                 R_SMR0603_150K        
+ R19                 R_SMR0603_1.8K        
+ R20                 R_SMR0603_100K        
+ R22                 R_SMR0603_3.6K        
+ R23                 R_SMR0603_50R/1W      
+ R24                 R_SMR0603_50R/1W      
+ R25                 R_SMR0603_51R/1W      
+ R26                 R_SMR0603_50R/1W      
+ R27                 R_SMR0603_3K          
+ R28                 R_SMR0603_3K          
+ R29                 R_SMR0603_3K          
+ R30                 R_SMR0603_100R        
+ R31                 R_SMR0603_100R        
+ R32                 R_SMR0603_100R        
+ RT1                 NTC_SMR0603_NTC-1K    
+ T1                  TRANSFORMER_T-10X10-4P_4:1  500 
+ T2                  TRANSFORMER_T-10X10-4P_1:2 1UH 
+ U1                  MB1504_SOIC16_MB1504_PLL 
+ U2                  AD8307_SOIC8_AD8307   
+ U3                  AD8307_SOIC8_AD8307   
+ U4                  78XX/SM_TO252AADPAK_CJ78M05/TO- 
+ Y1                  CRYSTAL/SM_Y-49S_8.000000MHZ/SM 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C10.2                          PRIM_FILE      .\pstchip.dat
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C12.2                          PRIM_FILE      .\pstchip.dat
+ C13.2                          PRIM_FILE      .\pstchip.dat
+ C14.2                          PRIM_FILE      .\pstchip.dat
+ C15.2                          PRIM_FILE      .\pstchip.dat
+ C16.2                          PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C19.2                          PRIM_FILE      .\pstchip.dat
+ C20.2                          PRIM_FILE      .\pstchip.dat
+ C21.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C23.2                          PRIM_FILE      .\pstchip.dat
+ C24.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C26.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C33.2                          PRIM_FILE      .\pstchip.dat
+ C34.2                          PRIM_FILE      .\pstchip.dat
+ C35.2                          PRIM_FILE      .\pstchip.dat
+ C36.2                          PRIM_FILE      .\pstchip.dat
+ C37.2                          PRIM_FILE      .\pstchip.dat
+ C38.2                          PRIM_FILE      .\pstchip.dat
+ C39.2                          PRIM_FILE      .\pstchip.dat
+ C40.2                          PRIM_FILE      .\pstchip.dat
+ C41.2                          PRIM_FILE      .\pstchip.dat
+ C42.2                          PRIM_FILE      .\pstchip.dat
+ C43.2                          PRIM_FILE      .\pstchip.dat
+ C44.2                          PRIM_FILE      .\pstchip.dat
+ C45.2                          PRIM_FILE      .\pstchip.dat
+ C46.2                          PRIM_FILE      .\pstchip.dat
+ C47.2                          PRIM_FILE      .\pstchip.dat
+ C48.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C49.2                          PRIM_FILE      .\pstchip.dat
+ C50.2                          PRIM_FILE      .\pstchip.dat
+ C51.2                          PRIM_FILE      .\pstchip.dat
+ C52.2                          PRIM_FILE      .\pstchip.dat
+ C53.2                          PRIM_FILE      .\pstchip.dat
+ C54.2                          PRIM_FILE      .\pstchip.dat
+ D3.1                           PRIM_FILE      .\pstchip.dat
+ D4.1                           PRIM_FILE      .\pstchip.dat
+ D5.1                           PRIM_FILE      .\pstchip.dat
+ D6.1                           PRIM_FILE      .\pstchip.dat
+ D8.1                           PRIM_FILE      .\pstchip.dat
+ D9.1                           PRIM_FILE      .\pstchip.dat
+ FB1.2                          PRIM_FILE      .\pstchip.dat
+ FB2.2                          PRIM_FILE      .\pstchip.dat
+ FB3.2                          PRIM_FILE      .\pstchip.dat
+ FB4.2                          PRIM_FILE      .\pstchip.dat
+ FB5.2                          PRIM_FILE      .\pstchip.dat
+ FB6.2                          PRIM_FILE      .\pstchip.dat
+ FB7.2                          PRIM_FILE      .\pstchip.dat
+ FB8.2                          PRIM_FILE      .\pstchip.dat
+ FB9.2                          PRIM_FILE      .\pstchip.dat
+ FB10.2                         PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.3                           PRIM_FILE      .\pstchip.dat
+ L1.2                           PRIM_FILE      .\pstchip.dat
+ L2.2                           PRIM_FILE      .\pstchip.dat
+ L3.2                           PRIM_FILE      .\pstchip.dat
+ L4.2                           PRIM_FILE      .\pstchip.dat
+ L5.2                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ Q3.3                           PRIM_FILE      .\pstchip.dat
+ Q5.3                           PRIM_FILE      .\pstchip.dat
+ Q7.3                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R14.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R15.2                          PRIM_FILE      .\pstchip.dat
+ R16.2                          PRIM_FILE      .\pstchip.dat
+ R17.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R19.2                          PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R23.2                          PRIM_FILE      .\pstchip.dat
+ R24.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R26.2                          PRIM_FILE      .\pstchip.dat
+ R27.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+ R32.2                          PRIM_FILE      .\pstchip.dat
+ RT1.2                          PRIM_FILE      .\pstchip.dat
+ T1.8                           PRIM_FILE      .\pstchip.dat
+ T2.8                           PRIM_FILE      .\pstchip.dat
+ U1.3                           PRIM_FILE      .\pstchip.dat
+ U2.7                           PRIM_FILE      .\pstchip.dat
+ U3.7                           PRIM_FILE      .\pstchip.dat
+ U4.3                           PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  E:.../BJ REFERENCE DOC/RFSIGNALGENERATOR/allegro/RFSIGNALGENERATOR.brd      |
+|                                                    Thu Jun 14 18:38:34 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :     255                                        |
+|       Comp definitions added:      50                                        |
+|       Components added      :     115                                        |
+|       Slot property added   :     115                                        |
+|                                                                              |
+|   Total ECO changes reported:     535                                        |
+|------------------------------------------------------------------------------|
