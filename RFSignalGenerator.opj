@@ -55,6 +55,44 @@
       (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (OFFPAGELEFT-L
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OP-221/TO
+      (FullPartName "OP-221/TO.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "1"))
+    (OP-221/SO
+      (FullPartName "OP-221/SO.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (2sk3475
+      (FullPartName "2sk3475.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (BSS138/SOT
+      (FullPartName "BSS138/SOT.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (BF998
+      (FullPartName "BF998.Normal")
+      (LibraryName
+         "E:\MY JINAN DOC\BJ REFERENCE DOC\CADLIB\SCH_LIB\CAD_SCHLIB.OLB")
+      (DeviceIndex "0"))
+    (3SK165
+      (FullPartName "3SK165.Normal")
+      (LibraryName
+         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
     (SMA-5PIN
       (FullPartName "SMA-5PIN.Normal")
       (LibraryName
@@ -94,10 +132,6 @@
       (FullPartName "CAP POL.Normal")
       (LibraryName
          "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (OFFPAGELEFT-L
-      (LibraryName
-         "C:\CADENCE\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
     (DIODE
       (FullPartName "DIODE.Normal")
@@ -142,40 +176,6 @@
       (FullPartName "INDUCTOR TOROID.Normal")
       (LibraryName
          "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("INDUCTOR IRON/SM"
-      (FullPartName "INDUCTOR IRON/SM.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (TRANSFORMER
-      (FullPartName "TRANSFORMER.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    ("TRNSFMR TY-401P"
-      (FullPartName "TRNSFMR TY-401P.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (VCC_CIRCLE
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
-      (DeviceIndex "0"))
-    (3SK165
-      (FullPartName "3SK165.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
-      (DeviceIndex "0"))
-    (INDUCTOR
-      (FullPartName "INDUCTOR.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
-    (2N3903
-      (FullPartName "2N3903.Normal")
-      (LibraryName
-         "C:\CADENCE\CADENCE_SPB_17.2-2016\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
       (DeviceIndex "0")))
   (MPSSessionName "kon")
   (LastUsedLibraryBrowseDirectory
@@ -193,7 +193,8 @@
          "Design Cache")
       (Path "Outputs")
       (Select "Design Resources"
-         "e:\my jinan doc\bj reference doc\rfsignalgenerator\rfsignalgenerator.dsn"))
+         "e:\my jinan doc\bj reference doc\rfsignalgenerator\rfsignalgenerator.dsn"
+         "Design Cache" "0"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -203,9 +204,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 234 1426 234 850")
-        (Scroll "857 426")
-        (Zoom "140")
+        (Placement "44 0 1 -1 -1 -8 -31 -5 1187 40 834")
+        (Scroll "3414 5296")
+        (Zoom "536")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\RFSIGNALGENERATOR.DSN")
@@ -214,9 +215,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1452 260 876")
-        (Scroll "0 30")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -8 -31 260 1452 260 876")
+        (Scroll "1715 293")
+        (Zoom "268")
         (Occurrence "/"))
       (Path
          "E:\MY JINAN DOC\BJ REFERENCE DOC\RFSIGNALGENERATOR\RFSIGNALGENERATOR.DSN")
