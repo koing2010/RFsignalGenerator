@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : RFSG_PCB.brd                                  )
 (    Software Version : 17.2P019                                      )
-(    Date/Time        : Wed Jun 20 17:27:04 2018                      )
+(    Date/Time        : Thu Jun 21 16:31:31 2018                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,7 +22,7 @@ Design Directory:            '.'
 Old design name:             'E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB.brd'
 New design name:             'E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB.brd'
 
-CmdLine: netrev -$ -i E:/my jinan doc/BJ reference doc/RFSignalGenerator/allegro -y 1 -q netrev_constraint_report.xml E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/#Taaaabf06640.tmp
+CmdLine: netrev -$ -i E:/my jinan doc/BJ reference doc/RFSignalGenerator/allegro -y 1 -q netrev_constraint_report.xml E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/#Taaaahp20036.tmp
 
 ------ Preparing to read pst files ------
 
@@ -36,6 +36,10 @@ Starting to read E:/my jinan doc/BJ reference doc/RFSignalGenerator/allegro/pstx
 ------ Oversights/Warnings/Errors ------
 
 
+#1   WARNING(SPMHNI-192): Device/Symbol check warning detected. [help]
+
+WARNING(SPMHNI-194): Symbol 'SMA-KWE' used by RefDes J3 for device 'SMA-5PIN_SMA-KWE_SMA-5PIN' not found in PSMPATH or must be "dbdoctor"ed.
+
 ------ Library Paths ------
 MODULEPATH =  . 
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/modules 
@@ -47,7 +51,6 @@ PSMPATH =  .
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/symbols 
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
-           E:/my jinan doc/BJ reference doc/CadLib/ 
 
 PADPATH =  . 
            symbols 
@@ -56,13 +59,12 @@ PADPATH =  .
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/local/pcb/padstacks 
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/pcb_lib/symbols 
            C:/Cadence/Cadence/Cadence_SPB_17.2-2016/share/pcb/allegrolib/symbols 
-           E:/my jinan doc/BJ reference doc/CadLib/ 
 
 
 ------ Summary Statistics ------
 
 
-netrev run on Jun 20 17:27:04 2018
+netrev run on Jun 21 16:31:31 2018
    DESIGN NAME : 'RFSIGNALGENERATOR'
    PACKAGING ON Mar  2 2016 00:37:24
 
@@ -85,8 +87,8 @@ netrev run on Jun 20 17:27:04 2018
 
  No error detected
  No oversight detected
- No warning detected
+  1 warnings detected
 
-cpu time      0:00:23
+cpu time      0:00:25
 elapsed time  0:00:00
 

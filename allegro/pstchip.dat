@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jun-20-2018 at 17:16:54}
+{ Using PSTWRITER 17.2.0 d001Jun-21-2018 at 16:31:23}
 primitive 'CAP NP_C0603_105';
   pin
     '1':
@@ -357,23 +357,23 @@ primitive 'INDUCTOR_SML0805_180NH/SM';
     VALUE='180nH/SM';
   end_body;
 end_primitive;
-primitive '3SK164_SMSOT1431234_BF998';
+primitive 'BF998_SMSOT1431234_BF998';
   pin
     'GATE2':
       PIN_NUMBER='(3)';
       INPUT_LOAD='(*)';
     'GATE1':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(4)';
       INPUT_LOAD='(*)';
     'DRAIN':
-      PIN_NUMBER='(4)';
+      PIN_NUMBER='(2)';
       INPUT_LOAD='(*)';
     'SOURCE':
       PIN_NUMBER='(1)';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='3SK164';
+    PART_NAME='BF998';
     JEDEC_TYPE='SMSOT1431234';
     VALUE='BF998';
   end_body;
@@ -396,22 +396,22 @@ primitive 'MMBT3904/SOT_SMSOT23213_2SC3356';
     VALUE='2sc3356';
   end_body;
 end_primitive;
-primitive 'MOSFET N DGS_SMSOT89123_2SK3475';
+primitive '2SK3475_SMSOT89123_2SK3475';
   pin
     'G':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    'D':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
-    'S':
+    'D':
       PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'S':
+      PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='MOSFET N DGS';
+    PART_NAME='2sk3475';
     JEDEC_TYPE='SMSOT89123';
-    VALUE='2SK3475';
+    VALUE='2sk3475';
   end_body;
 end_primitive;
 primitive 'R_R0603_1K';
@@ -564,6 +564,36 @@ primitive 'R_R0603_3.6K';
     VALUE='3.6k';
   end_body;
 end_primitive;
+primitive 'R_SMR1206_50R/1W';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr1206';
+    VALUE='50R/1W';
+  end_body;
+end_primitive;
+primitive 'R_SMR1206_51R/1W';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='smr1206';
+    VALUE='51R/1W';
+  end_body;
+end_primitive;
 primitive 'R_R0603_50R/1W';
   pin
     '1':
@@ -577,21 +607,6 @@ primitive 'R_R0603_50R/1W';
     PART_NAME='R';
     JEDEC_TYPE='R0603';
     VALUE='50R/1W';
-  end_body;
-end_primitive;
-primitive 'R_R0603_51R/1W';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R';
-    JEDEC_TYPE='R0603';
-    VALUE='51R/1W';
   end_body;
 end_primitive;
 primitive 'R_R0603_3K';
@@ -826,7 +841,7 @@ primitive '78XX/SM_TO252123DPAK_CJ78M05TO2';
       OUTPUT_LOAD='(*)';
   end_pin;
   body
-    POWER_PINS='(GND:2)';
+    POWER_PINS='(0:2)';
     PART_NAME='78XX/SM';
     JEDEC_TYPE='to252123dpak';
     VALUE='CJ78M05TO252';

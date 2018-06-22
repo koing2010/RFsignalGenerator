@@ -1,1 +1,1 @@
-RFSG_PCB1.brd
+RFSG_PCB.brd

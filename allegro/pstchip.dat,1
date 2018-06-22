@@ -1,6 +1,6 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Jun-20-2018 at 16:29:22}
-primitive 'CAP NP_SMC0603_105';
+{ Using PSTWRITER 17.2.0 d001Jun-21-2018 at 15:56:00}
+primitive 'CAP NP_C0603_105';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -11,11 +11,11 @@ primitive 'CAP NP_SMC0603_105';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='105';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_1000PF';
+primitive 'CAP NP_C0603_1000PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -26,11 +26,11 @@ primitive 'CAP NP_SMC0603_1000PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='1000pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_20PF';
+primitive 'CAP NP_C0603_20PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -41,11 +41,11 @@ primitive 'CAP NP_SMC0603_20PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='20pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_102';
+primitive 'CAP NP_C0603_102';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -56,11 +56,11 @@ primitive 'CAP NP_SMC0603_102';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='102';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_104';
+primitive 'CAP NP_C0603_104';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -71,11 +71,11 @@ primitive 'CAP NP_SMC0603_104';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='104';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_103';
+primitive 'CAP NP_C0603_103';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -86,11 +86,11 @@ primitive 'CAP NP_SMC0603_103';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='103';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_100PF';
+primitive 'CAP NP_C0603_100PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -101,11 +101,11 @@ primitive 'CAP NP_SMC0603_100PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='100pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_1.5PF';
+primitive 'CAP NP_C0603_1.5PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -116,11 +116,11 @@ primitive 'CAP NP_SMC0603_1.5PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='1.5pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_12PF';
+primitive 'CAP NP_C0603_12PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -131,11 +131,11 @@ primitive 'CAP NP_SMC0603_12PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='12pF';
   end_body;
 end_primitive;
-primitive 'CAP NP_SMC0603_22PF';
+primitive 'CAP NP_C0603_22PF';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -146,7 +146,7 @@ primitive 'CAP NP_SMC0603_22PF';
   end_pin;
   body
     PART_NAME='CAP NP';
-    JEDEC_TYPE='smc0603';
+    JEDEC_TYPE='C0603';
     VALUE='22pF';
   end_body;
 end_primitive;
@@ -357,23 +357,23 @@ primitive 'INDUCTOR_SML0805_180NH/SM';
     VALUE='180nH/SM';
   end_body;
 end_primitive;
-primitive '3SK164_SMSOT1431234_BF998';
+primitive 'BF998_SMSOT1431234_BF998';
   pin
     'GATE2':
       PIN_NUMBER='(3)';
       INPUT_LOAD='(*)';
     'GATE1':
-      PIN_NUMBER='(2)';
+      PIN_NUMBER='(4)';
       INPUT_LOAD='(*)';
     'DRAIN':
-      PIN_NUMBER='(4)';
+      PIN_NUMBER='(2)';
       INPUT_LOAD='(*)';
     'SOURCE':
       PIN_NUMBER='(1)';
       INPUT_LOAD='(*)';
   end_pin;
   body
-    PART_NAME='3SK164';
+    PART_NAME='BF998';
     JEDEC_TYPE='SMSOT1431234';
     VALUE='BF998';
   end_body;
@@ -396,7 +396,7 @@ primitive 'MMBT3904/SOT_SMSOT23213_2SC3356';
     VALUE='2sc3356';
   end_body;
 end_primitive;
-primitive 'MOSFET N DGS_SMSOT89123_2SK3475';
+primitive 'MOSFET N DGS_SMSOT89231_2SK3475';
   pin
     'G':
       PIN_NUMBER='(2)';
@@ -410,11 +410,11 @@ primitive 'MOSFET N DGS_SMSOT89123_2SK3475';
   end_pin;
   body
     PART_NAME='MOSFET N DGS';
-    JEDEC_TYPE='SMSOT89123';
+    JEDEC_TYPE='SMSOT89231';
     VALUE='2SK3475';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_1K';
+primitive 'R_R0603_1K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -425,11 +425,11 @@ primitive 'R_SMR0603_1K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='1K';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_360R';
+primitive 'R_R0603_360R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -440,11 +440,11 @@ primitive 'R_SMR0603_360R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='360R';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_200R';
+primitive 'R_R0603_200R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -455,11 +455,11 @@ primitive 'R_SMR0603_200R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='200R';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_3.3K';
+primitive 'R_R0603_3.3K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -470,11 +470,11 @@ primitive 'R_SMR0603_3.3K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='3.3k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_1.5K';
+primitive 'R_R0603_1.5K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -485,11 +485,11 @@ primitive 'R_SMR0603_1.5K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='1.5k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_50R';
+primitive 'R_R0603_50R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -500,11 +500,11 @@ primitive 'R_SMR0603_50R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='50R';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_100K';
+primitive 'R_R0603_100K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -515,11 +515,11 @@ primitive 'R_SMR0603_100K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='100K';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_150K';
+primitive 'R_R0603_150K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -530,11 +530,11 @@ primitive 'R_SMR0603_150K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='150k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_1.8K';
+primitive 'R_R0603_1.8K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -545,11 +545,11 @@ primitive 'R_SMR0603_1.8K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='1.8k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_3.6K';
+primitive 'R_R0603_3.6K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -560,11 +560,11 @@ primitive 'R_SMR0603_3.6K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='3.6k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_50R/1W';
+primitive 'R_R0603_50R/1W';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -575,11 +575,11 @@ primitive 'R_SMR0603_50R/1W';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='50R/1W';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_51R/1W';
+primitive 'R_R0603_51R/1W';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -590,11 +590,11 @@ primitive 'R_SMR0603_51R/1W';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='51R/1W';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_3K';
+primitive 'R_R0603_3K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -605,11 +605,11 @@ primitive 'R_SMR0603_3K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='3K';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_100R';
+primitive 'R_R0603_100R';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -620,11 +620,11 @@ primitive 'R_SMR0603_100R';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='100R';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_2K';
+primitive 'R_R0603_2K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -635,11 +635,11 @@ primitive 'R_SMR0603_2K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='2K';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_12K';
+primitive 'R_R0603_12K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -650,11 +650,11 @@ primitive 'R_SMR0603_12K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='12k';
   end_body;
 end_primitive;
-primitive 'R_SMR0603_10K';
+primitive 'R_R0603_10K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -665,11 +665,11 @@ primitive 'R_SMR0603_10K';
   end_pin;
   body
     PART_NAME='R';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='10k';
   end_body;
 end_primitive;
-primitive 'NTC_SMR0603_NTC-1K';
+primitive 'NTC_R0603_NTC-1K';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -680,7 +680,7 @@ primitive 'NTC_SMR0603_NTC-1K';
   end_pin;
   body
     PART_NAME='NTC';
-    JEDEC_TYPE='smr0603';
+    JEDEC_TYPE='R0603';
     VALUE='NTC-1k';
   end_body;
 end_primitive;
@@ -726,7 +726,7 @@ primitive 'TRANSFORMER_T-10X10-4P_1:2 1UH';
     VALUE='1:2 1uH';
   end_body;
 end_primitive;
-primitive 'MB1504_FPT-16-M06_MB1504_PLL';
+primitive 'MB1504_FPT-16P-M06_MB1504_PLL';
   pin
     'OSCIN':
       PIN_NUMBER='(1)';
@@ -779,7 +779,7 @@ primitive 'MB1504_FPT-16-M06_MB1504_PLL';
   end_pin;
   body
     PART_NAME='MB1504';
-    JEDEC_TYPE='FPT-16-M06';
+    JEDEC_TYPE='FPT-16P-M06';
     VALUE='MB1504_PLL';
   end_body;
 end_primitive;
@@ -826,7 +826,7 @@ primitive '78XX/SM_TO252123DPAK_CJ78M05TO2';
       OUTPUT_LOAD='(*)';
   end_pin;
   body
-    POWER_PINS='(GND:2)';
+    POWER_PINS='(0:2)';
     PART_NAME='78XX/SM';
     JEDEC_TYPE='to252123dpak';
     VALUE='CJ78M05TO252';
