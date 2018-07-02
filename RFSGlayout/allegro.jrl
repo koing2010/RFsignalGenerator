@@ -1,339 +1,179 @@
-\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
-\t (00:00:03)     Journal start - Thu Jun 21 18:18:42 2018
-\t (00:00:03)         Host=DESKTOP-S7SCATP User=kon Pid=7064 CPUs=8
-\t (00:00:03) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
-\t (00:00:03) 
-   (00:00:03) Loading axlcore.cxt 
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Jun 27 10:45:22 2018
+\t (00:00:04)         Host=DESKTOP-S7SCATP User=kon Pid=23368 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
 \t (00:00:05) Opening existing design...
-\d (00:00:06) Design opened: E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB.brd
-\i (00:00:06) trapsize 1535
-\i (00:00:06) trapsize 1572
-\i (00:00:06) trapsize 1574
-\i (00:00:06) trapsize 1529
-\i (00:00:06) trapsize 23761
+\d (00:00:05) Design opened: E:/my jinan doc/BJ reference doc/RFSignalGenerator/RFSGlayout/RFSG_PCB.brd
+\i (00:00:05) trapsize 3069
+\i (00:00:05) trapsize 3144
+\i (00:00:06) trapsize 3149
+\i (00:00:06) trapsize 3057
+\i (00:00:06) trapsize 47523
 \i (00:00:06) placementedit 
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -8.5815 11.2806
-\i (00:00:07) trapsize 3057
-\i (00:00:07) zoom out 1 
-\i (00:00:07) setwindow pcb
-\i (00:00:07) zoom out -8.5816 11.2805
-\i (00:00:07) trapsize 6114
-\i (00:00:08) zoom in 1 
+\i (00:00:08) zoom out 1 
 \i (00:00:08) setwindow pcb
-\i (00:00:08) zoom in -7.8479 12.6257
-\i (00:00:08) trapsize 3057
-\i (00:00:09) pick grid -4.7908 -0.3974
-\t (00:00:09) last pick:  -4.8006 -0.4064
-\i (00:00:18) placementedit 
-\i (00:00:19) zoom in 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom in -9.0095 7.1230
-\i (00:00:19) trapsize 1529
-\i (00:00:19) zoom in 1 
-\i (00:00:19) setwindow pcb
-\i (00:00:19) zoom in -9.0095 7.1230
-\i (00:00:19) trapsize 764
-\i (00:00:20) zoom out 1 
-\i (00:00:20) setwindow pcb
-\i (00:00:20) zoom out -9.0095 7.1230
-\i (00:00:20) trapsize 1529
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in -9.0095 7.1231
-\i (00:00:21) trapsize 764
-\i (00:00:22) zoom out 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out -9.6668 3.3782
-\i (00:00:22) trapsize 1529
-\i (00:00:22) zoom out 1 
-\i (00:00:22) setwindow pcb
-\i (00:00:22) zoom out -9.6667 3.3783
-\i (00:00:22) trapsize 3057
-\i (00:00:23) zoom in 1 
-\i (00:00:23) setwindow pcb
-\i (00:00:23) zoom in -29.1708 7.7804
-\i (00:00:23) trapsize 1529
-\i (00:00:24) zoom out 1 
-\i (00:00:24) setwindow pcb
-\i (00:00:24) zoom out -28.5288 7.9944
-\i (00:00:24) trapsize 3057
-\i (00:00:24) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out -26.8779 4.8763
-\i (00:00:25) trapsize 6114
-\i (00:00:25) zoom out 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom out -40.6253 4.8762
-\i (00:00:25) trapsize 12210
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in -36.5079 9.4017
-\i (00:00:25) trapsize 6105
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in -48.8401 9.4018
-\i (00:00:25) trapsize 3053
-\i (00:00:25) zoom in 1 
-\i (00:00:25) setwindow pcb
-\i (00:00:25) zoom in -48.8401 9.4018
-\i (00:00:25) trapsize 1526
-\i (00:00:26) zoom out 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom out -31.8987 7.8450
-\i (00:00:26) trapsize 3053
-\i (00:00:26) zoom out 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom out -31.8987 7.8451
-\i (00:00:26) trapsize 6105
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in -1.4652 6.7462
-\i (00:00:26) trapsize 3053
-\i (00:00:26) zoom in 1 
-\i (00:00:26) setwindow pcb
-\i (00:00:26) zoom in -1.4652 6.7462
-\i (00:00:26) trapsize 1526
-\i (00:00:28) drag_start grid -7.2650 4.9147
-\i (00:00:29) drag_stop -17.9487 7.4788
-\i (00:00:30) pick grid -8.8523 6.7462
-\t (00:00:30) last pick:  -8.8646 6.7564
-\i (00:00:31) drag_start grid -7.2344 9.2187
-\i (00:00:31) drag_stop -18.2845 11.2639
-\i (00:00:32) pick grid -5.0061 8.0588
-\t (00:00:33) last pick:  -5.0038 8.0518
-\i (00:00:36) drag_start grid -15.5067 12.1491
-\i (00:00:37) drag_stop -15.0794 -2.0145
-\i (00:00:40) prepopup -15.2930 5.9526
-\i (00:00:46) pop dyn_option_select '@:@Align components' 
-\i (00:00:46) align components 
-\i (00:00:55) setwindow form.mini
-\i (00:00:55) FORM mini alobj_left YES 
-\i (00:00:57) FORM mini alobj_right YES 
-\i (00:00:58) FORM mini alobj_center YES 
-\i (00:01:00) setwindow pcb
-\i (00:01:00) pick grid -3.7241 7.2957
-\t (00:01:00) last pick:  -3.7338 7.2898
-\i (00:01:03) setwindow form.mini
-\i (00:01:03) FORM mini alobj_hor YES 
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between C49 and R31.
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between C49 and C46.
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between C49 and R29.
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between R31 and C46.
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between R31 and R29.
-\e (00:01:03) ERROR(SPMHGE-498): Spacing violation found between C46 and R29.
-\i (00:01:05) FORM mini alobj_ver YES 
-\i (00:01:06) setwindow pcb
-\i (00:01:06) pick grid 5.0671 8.3030
-\t (00:01:06) last pick:  5.0546 8.3058
-\i (00:01:13) pick grid -3.1441 8.6998
-\t (00:01:13) last pick:  -3.1496 8.7122
-\i (00:01:14) prepopup -6.2576 8.8830
-\i (00:01:14) done 
-\i (00:01:15) placementedit 
-\i (00:01:15) pick grid -7.5702 7.5093
-\t (00:01:15) last pick:  -7.5692 7.5184
-\i (00:01:20) drag_start grid -18.2234 10.6534
-\i (00:01:21) drag_stop -16.8193 -1.8008
-\i (00:01:23) prepopup -16.6056 8.7303
-\i (00:01:24) pop dyn_option_select '@:@Align components' 
-\i (00:01:24) align components 
-\e (00:01:24) ERROR(SPMHGE-498): Spacing violation found between C7 and C45.
-\i (00:01:29) prepopup -3.7546 10.3176
-\i (00:01:29) pick grid -3.3578 7.9062
-\t (00:01:29) last pick:  -3.3528 7.8994
-\i (00:01:30) prepopup -2.6862 9.7377
-\i (00:01:30) cancel 
-\i (00:01:31) placementedit 
-\i (00:01:31) pick grid -5.8303 8.3946
-\t (00:01:31) last pick:  -5.8420 8.3820
-\i (00:01:32) drag_start grid -17.0330 10.9587
-\i (00:01:34) drag_stop -16.6667 -3.0218
-\i (00:01:39) setwindow form.find
-\i (00:01:39) FORM find pins NO 
-\i (00:01:40) FORM find all_off  
-\i (00:01:42) FORM find symbols YES 
-\i (00:01:42) setwindow pcb
-\i (00:01:42) pick grid 5.6166 9.0051
-\t (00:01:42) last pick:  5.6134 9.0170
-\i (00:01:44) drag_start grid -16.9109 11.2639
-\i (00:01:45) drag_stop -16.7277 -2.2281
-\i (00:01:52) prepopup -17.0635 5.1589
-\i (00:01:57) prepopup -16.6361 2.8085
-\i (00:02:07) pop dyn_option_select 'Application Mode@:@Placement Edit' 
-\i (00:02:07) placementedit 
-\i (00:02:20) setwindow form.mini
-\i (00:02:20) FORM mini class BOARD GEOMETRY 
-\i (00:02:26) FORM mini mirror YES 
-\i (00:02:26) FORM mini mirror NO 
-\i (00:02:27) FORM mini plcman_button  
-\i (00:02:27) setwindow pcb
-\i (00:02:27) placementedit 
-\i (00:02:27) place manual 
-\i (00:02:29) setwindow form.plc_manual
-\i (00:02:29) FORM plc_manual cancel  
-\i (00:02:30) setwindow pcb
-\i (00:02:30) placementedit 
-\i (00:02:33) pick grid -11.6606 12.4239
-\t (00:02:33) last pick:  -11.6586 12.4206
-\i (00:02:34) drag_start grid -14.9878 11.2944
-\i (00:02:35) drag_stop -15.4762 -1.9229
-\i (00:02:37) prepopup -14.7131 9.1577
-\i (00:02:39) pop dyn_option_select '@:@Align components' 
-\i (00:02:39) align components 
-\i (00:02:44) pick grid 0.7326 7.5399
-\t (00:02:44) last pick:  0.7366 7.5438
-\i (00:02:45) pick grid -17.8266 11.1418
-\t (00:02:45) last pick:  -17.8308 11.1506
-\i (00:02:46) pick grid 0.3052 9.6766
-\t (00:02:46) last pick:  0.3048 9.6774
-\i (00:02:46) prepopup 4.0293 8.1504
-\i (00:02:47) done 
-\i (00:02:47) placementedit 
-\i (00:02:48) drag_start grid -17.0940 11.2334
-\i (00:02:50) drag_stop -16.6972 -2.4723
-\i (00:02:52) prepopup -17.0940 8.6388
-\i (00:02:54) pop dyn_option_select '@:@Align components' 
-\i (00:02:54) align components 
-\i (00:02:55) pick grid 1.5262 7.4178
-\t (00:02:55) last pick:  1.5240 7.4168
-\i (00:02:57) pick grid 1.5262 7.4178
-\t (00:02:57) last pick:  1.5240 7.4168
-\i (00:02:58) prepopup -0.5189 8.7303
-\i (00:02:59) done 
-\i (00:02:59) placementedit 
-\i (00:02:59) pick grid -3.2051 8.4251
-\t (00:02:59) last pick:  -3.2004 8.4328
-\i (00:03:00) pick grid -3.7851 8.4251
-\t (00:03:00) last pick:  -3.7846 8.4328
-\i (00:03:07) drag_start grid -7.4481 5.2810
-\i (00:03:08) drag_stop -17.3382 6.4104
-\i (00:03:09) pick grid -6.2576 6.0747
-\t (00:03:09) last pick:  -6.2484 6.0706
-\i (00:07:26) zoom out 1 
-\i (00:07:26) setwindow pcb
-\i (00:07:26) zoom out 14.6520 3.5716
-\i (00:07:26) trapsize 3053
-\i (00:07:28) zoom in 1 
-\i (00:07:28) setwindow pcb
-\i (00:07:28) zoom in -14.1636 4.7316
-\i (00:07:28) trapsize 1526
-\i (00:07:28) zoom in 1 
-\i (00:07:28) setwindow pcb
-\i (00:07:28) zoom in -14.1636 4.7316
-\i (00:07:28) trapsize 763
-\i (00:07:30) zoom out 1 
-\i (00:07:30) setwindow pcb
-\i (00:07:30) zoom out -14.1788 4.7317
-\i (00:07:30) trapsize 1526
-\i (00:07:30) zoom out 1 
-\i (00:07:30) setwindow pcb
-\i (00:07:30) zoom out -14.1788 4.7316
-\i (00:07:30) trapsize 3053
-\i (00:07:31) zoom in 1 
-\i (00:07:31) setwindow pcb
-\i (00:07:31) zoom in -10.2105 -3.6323
-\i (00:07:31) trapsize 1526
-\i (00:07:32) drag_start grid -10.3020 -3.0217
-\i (00:07:33) drag_stop -13.4766 12.4850
-\i (00:07:35) drag_start grid -12.9882 9.9820
-\i (00:07:35) drag_stop grid -13.1103 9.9820
-\i (00:07:36) pick grid -8.4705 8.4862
-\t (00:07:36) last pick:  -8.4582 8.4836
-\i (00:07:37) zoom out 1 
-\i (00:07:37) setwindow pcb
-\i (00:07:37) zoom out -8.4705 8.4862
-\i (00:07:37) trapsize 3053
-\i (00:07:40) drag_start grid -25.5035 15.8733
-\i (00:07:41) move 
-\t (00:07:41) last pick:  -25.5016 15.8750
-\t (00:07:41) Moving C11 / CAP NP_C0603_1000PF / C0603.
-\t (00:07:41) Pick new location for the element(s).
-\i (00:07:41) drag_stop grid -23.9162 14.2250
-\i (00:07:41) placementedit 
-\i (00:07:43) undo 
-\i (00:07:43) trapsize 3053
-\i (00:07:43) placementedit 
-\i (00:07:44) pick grid -1.3887 7.3263
-\t (00:07:44) last pick:  -1.3970 7.3152
-\i (00:07:45) drag_start grid -22.6952 0.0003
-\i (00:07:47) drag_stop -24.3436 14.8355
-\i (00:07:48) pick grid -21.9626 -2.8080
-\t (00:07:48) last pick:  -21.9710 -2.8194
-\i (00:07:48) drag_start grid -23.3057 -1.4649
-\i (00:07:51) drag_stop -23.7331 14.7134
-\i (00:07:52) pick grid -4.8686 7.5705
-\t (00:07:52) last pick:  -4.8768 7.5692
-\i (00:07:54) drag_start grid -24.4657 -0.4271
-\i (00:07:54) drag_stop -24.2215 1.6486
-\i (00:07:55) drag_start grid -23.7331 0.1224
-\i (00:07:55) drag_stop -23.6110 5.4948
-\i (00:07:56) pick grid -23.6720 -0.0608
-\t (00:07:56) last pick:  -23.6728 -0.0508
-\i (00:07:57) drag_start grid -23.3668 -0.7323
-\i (00:07:58) drag_stop -23.7331 14.2250
-\i (00:08:01) prepopup -23.7331 13.0650
-\i (00:08:03) pop dyn_option_select '@:@Align components' 
-\i (00:08:03) align components 
-\i (00:08:05) pick grid 4.6553 8.0589
-\t (00:08:05) last pick:  4.6482 8.0518
-\i (00:08:06) pick grid 3.9837 6.8989
-\t (00:08:06) last pick:  3.9878 6.9088
-\i (00:08:07) pick grid 3.9837 6.8989
-\t (00:08:07) last pick:  3.9878 6.9088
-\i (00:08:08) pick grid -20.8637 -0.7934
-\t (00:08:08) last pick:  -20.8534 -0.7874
-\i (00:08:12) pick grid -25.2593 -0.1829
-\t (00:08:12) last pick:  -25.2476 -0.1778
-\i (00:08:15) pick grid -20.7416 4.8232
-\t (00:08:15) last pick:  -20.7518 4.8260
-\i (00:08:15) pick grid -16.2850 10.7451
-\t (00:08:15) last pick:  -16.2814 10.7442
-\i (00:08:16) pick grid -0.2288 10.0735
-\t (00:08:16) last pick:  -0.2286 10.0838
-\i (00:08:16) prepopup -0.2288 10.0735
-\i (00:08:17) done 
-\i (00:08:17) placementedit 
-\i (00:08:17) pick grid -3.0981 10.5620
-\t (00:08:17) last pick:  -3.0988 10.5664
-\i (00:08:19) drag_start grid -20.5585 4.9453
-\i (00:08:19) move 
-\t (00:08:19) last pick:  -20.5486 4.9530
-\t (00:08:19) Moving C8 / CAP NP_C0603_103 / C0603.
-\t (00:08:19) Pick new location for the element(s).
-\i (00:08:19) drag_stop grid -21.8405 11.3556
+\i (00:00:08) zoom out -9.6709 13.9794
+\i (00:00:08) trapsize 6114
+\i (00:00:08) zoom out 1 
+\i (00:00:08) setwindow pcb
+\i (00:00:08) zoom out 17.8811 13.9793
+\i (00:00:08) trapsize 12210
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 78.2662 54.0904
+\i (00:00:09) trapsize 6105
+\i (00:00:09) zoom in 1 
+\i (00:00:09) setwindow pcb
+\i (00:00:09) zoom in 8.4249 54.0904
+\i (00:00:09) trapsize 3053
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -12.8205 61.4164
+\i (00:00:11) trapsize 6105
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -34.0659 61.4164
+\i (00:00:11) trapsize 12210
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -6.9597 83.3944
+\i (00:00:11) trapsize 12210
+\i (00:00:11) zoom out 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom out -6.9597 83.3944
+\i (00:00:11) trapsize 12210
+\i (00:00:16) pick grid -5.9829 66.3004
+\t (00:00:16) last pick:  -5.9944 66.2940
+\i (00:01:29) xhilite 
+\i (00:01:29) xname_flush 
+\i (00:01:29) done 
+\i (00:01:29) placementedit 
+\i (00:08:20) xhilite 
+\i (00:08:20) xname_flush 
+\i (00:08:20) done 
 \i (00:08:20) placementedit 
-\i (00:08:21) undo 
-\i (00:08:21) trapsize 3053
-\i (00:08:21) placementedit 
-\i (00:08:22) pick grid -20.8637 5.1895
-\t (00:08:22) last pick:  -20.8534 5.1816
-\i (00:08:22) move 
-\t (00:08:22) last pick:  -20.8534 5.1816
-\t (00:08:22) Moving C8 / CAP NP_C0603_103 / C0603.
-\t (00:08:22) Pick new location for the element(s).
-\i (00:08:23) pick grid -21.0469 5.1285
-\t (00:08:23) last pick:  -21.0566 5.1308
-\i (00:08:23) placementedit 
-\i (00:08:23) drag_start grid -20.9858 4.4569
-\i (00:08:25) drag_stop -21.0469 15.6902
-\i (00:08:25) prepopup -21.1690 14.0418
-\i (00:08:27) pop dyn_option_select '@:@Align components' 
-\i (00:08:27) align components 
-\i (00:08:32) pick grid 5.4489 9.9514
-\t (00:08:32) last pick:  5.4610 9.9568
-\i (00:08:33) prepopup -2.9760 9.4630
-\i (00:08:33) done 
-\i (00:08:33) placementedit 
-\i (00:08:34) pick grid -3.4034 8.7304
-\t (00:08:34) last pick:  -3.4036 8.7376
-\i (00:08:34) pick grid -2.9150 8.6694
-\t (00:08:34) last pick:  -2.9210 8.6614
-\i (00:08:37) save 
-\i (00:08:38) fillin yes 
-\i (00:08:38) placementedit 
-\i (00:08:38) pick grid -5.2349 1.2823
-\t (00:08:38) last pick:  -5.2324 1.2700
-\i (00:08:40) exit 
-\t (00:08:40)     Journal end - Thu Jun 21 18:27:19 2018
+\i (00:08:35) xhilite 
+\i (00:08:35) xname_flush 
+\i (00:08:35) done 
+\i (00:08:35) placementedit 
+\i (00:08:51) xhilite 
+\i (00:08:51) xname_flush 
+\i (00:08:51) done 
+\i (00:08:51) placementedit 
+\i (00:09:00) xhilite 
+\i (00:09:00) xname_flush 
+\i (00:09:00) done 
+\i (00:09:00) placementedit 
+\i (00:09:14) xhilite 
+\i (00:09:14) xname_flush 
+\i (00:09:14) done 
+\i (00:09:14) placementedit 
+\i (00:09:46) xhilite 
+\i (00:09:46) xname_flush 
+\i (00:09:46) done 
+\i (00:09:46) placementedit 
+\i (00:10:08) xhilite 
+\i (00:10:08) xname_flush 
+\i (00:10:08) done 
+\i (00:10:09) placementedit 
+\i (00:10:27) xhilite 
+\i (00:10:27) xname_flush 
+\i (00:10:27) done 
+\i (00:10:28) placementedit 
+\i (00:10:38) place manual 
+\i (00:10:41) setwindow form.plc_manual
+\i (00:10:41) FORM plc_manual advanced_settings  
+\i (00:10:42) FORM plc_manual library YES 
+\i (00:10:43) FORM plc_manual database NO 
+\i (00:10:44) FORM plc_manual placement_list  
+\i (00:10:52) FORM plc_manual tree  'Components by refdes' 
+\i (00:10:53) FORM plc_manual tree 'MULTISEL YES' 'Components by refdes' 
+\i (00:10:55) FORM plc_manual categories Package symbols 
+\i (00:10:57) FORM plc_manual tree  0603RF_WV_12D 'Package symbols' 
+\i (00:10:58) FORM plc_manual tree 'MULTISEL YES' 0603RF_WV_12D 'Package symbols' 
+\w (00:10:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:10:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:10:58) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:10:59) FORM plc_manual tree 'MULTISEL NO' 0603RF_WV_12D 'Package symbols' 
+\i (00:11:01) FORM plc_manual tree 'MULTISEL YES' AX1100X375034 'Package symbols' 
+\w (00:11:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:01) FORM plc_manual tree  AX1100X375034 'Package symbols' 
+\i (00:11:01) FORM plc_manual tree 'MULTISEL NO' AX1100X375034 'Package symbols' 
+\i (00:11:05) FORM plc_manual tree 'MULTISEL YES' AX500X200040 'Package symbols' 
+\w (00:11:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:05) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:05) FORM plc_manual tree  AX500X200040 'Package symbols' 
+\i (00:11:05) FORM plc_manual tree 'MULTISEL NO' AX500X200040 'Package symbols' 
+\i (00:11:09) FORM plc_manual tree 'MULTISEL YES' AXHELP 'Package symbols' 
+\w (00:11:09) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:09) FORM plc_manual tree  AXHELP 'Package symbols' 
+\i (00:11:10) FORM plc_manual tree 'MULTISEL NO' AXHELP 'Package symbols' 
+\i (00:11:11) FORM plc_manual tree 'MULTISEL YES' AXRC20 'Package symbols' 
+\w (00:11:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:11) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:11) FORM plc_manual tree  AXRC20 'Package symbols' 
+\i (00:11:11) FORM plc_manual tree 'MULTISEL NO' AXRC20 'Package symbols' 
+\i (00:11:13) FORM plc_manual tree 'MULTISEL YES' AXRNR55 'Package symbols' 
+\w (00:11:13) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:13) FORM plc_manual tree  AXRNR55 'Package symbols' 
+\i (00:11:14) FORM plc_manual tree 'MULTISEL NO' AXRNR55 'Package symbols' 
+\i (00:11:18) FORM plc_manual tree 'MULTISEL YES' BGA10M100100B60W1100 'Package symbols' 
+\w (00:11:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:18) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:18) FORM plc_manual tree  BGA10M100100B60W1100 'Package symbols' 
+\i (00:11:18) FORM plc_manual tree 'MULTISEL NO' BGA10M100100B60W1100 'Package symbols' 
+\i (00:11:25) FORM plc_manual tree 'MULTISEL YES' BLKCON100RHTM1SQSW35023 'Package symbols' 
+\w (00:11:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:25) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:25) FORM plc_manual tree  BLKCON100RHTM1SQSW35023 'Package symbols' 
+\i (00:11:26) FORM plc_manual tree 'MULTISEL NO' BLKCON100RHTM1SQSW35023 'Package symbols' 
+\i (00:11:32) FORM plc_manual tree 'MULTISEL YES' BLKCON100VHTM2OEW20088 'Package symbols' 
+\w (00:11:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:32) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:32) FORM plc_manual tree  BLKCON100VHTM2OEW20088 'Package symbols' 
+\i (00:11:33) FORM plc_manual tree 'MULTISEL NO' BLKCON100VHTM2OEW20088 'Package symbols' 
+\i (00:11:34) FORM plc_manual tree 'MULTISEL YES' BLKCON100VHTM2OEW20088 'Package symbols' 
+\i (00:11:34) FORM plc_manual tree 'MULTISEL NO' BLKCON100VHTM2OEW20088 'Package symbols' 
+\i (00:11:38) FORM plc_manual tree 'MULTISEL YES' BREAKAWAY 'Package symbols' 
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:38) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:38) FORM plc_manual tree  BREAKAWAY 'Package symbols' 
+\i (00:11:39) FORM plc_manual tree 'MULTISEL NO' BREAKAWAY 'Package symbols' 
+\i (00:11:40) FORM plc_manual tree 'MULTISEL YES' BREAKAWAY 'Package symbols' 
+\i (00:11:48) FORM plc_manual qvpropwnd 'Name: BREAKAWAYType: Symbol DefinitionUnits:         MillimetersAccuracy:   4Pins: 4' 
+\i (00:11:49) FORM plc_manual tree 'MULTISEL NO' BREAKAWAY 'Package symbols' 
+\i (00:11:50) FORM plc_manual tree 'MULTISEL YES' BLKCON156VHTM1SQSW312HELP 'Package symbols' 
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:11:50) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:50) FORM plc_manual tree  BLKCON156VHTM1SQSW312HELP 'Package symbols' 
+\i (00:11:51) FORM plc_manual tree 'MULTISEL NO' BLKCON156VHTM1SQSW312HELP 'Package symbols' 
+\i (00:11:51) FORM plc_manual tree 'MULTISEL YES' BLKCON156VHTM1SQSW3129 'Package symbols' 
+\w (00:11:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:11:51) FORM plc_manual tree  BLKCON156VHTM1SQSW3129 'Package symbols' 
+\i (00:11:52) FORM plc_manual tree 'MULTISEL NO' BLKCON156VHTM1SQSW3129 'Package symbols' 
+\i (00:14:52) FORM plc_manual cancel  
+\i (00:14:53) setwindow pcb
+\i (00:14:53) placementedit 
+\i (00:17:59) xhilite 
+\i (00:18:00) xname_flush 
+\i (00:18:00) done 
+\i (00:18:00) placementedit 
+\i (00:20:28) xhilite 
+\i (00:20:28) xname_flush 
+\i (00:20:28) done 
+\i (00:20:28) placementedit 
+\i (00:22:36) new 
+\e (00:22:36) Do you want to save the changes you made to RFSG_PCB.brd?
+\i (00:22:39) fillin yes 
+\i (00:22:51) newdrawfillin "menu_cancel"
+\i (00:22:52) placementedit 
+\i (00:56:46) new 
+\i (00:57:35) newdrawfillin "PH2_0x4P.dra" "Package Symbol"
+\t (00:57:35)     Journal end - Wed Jun 27 11:42:54 2018
